@@ -1,0 +1,6 @@
+- 👋 Hi, I’m @russellnapier
+- 👀 I’m interested in AI, Machine Learning, & Quantum Mechanics / Computing
+- 🌱 I’m currently learning Python & Java
+- 💞️ I’m looking to collaborate on some ML & AI Projects. I have a few idea's that could be interesting
+- 📫 How to reach me: Message me on Teams (russellnapierATmsnDOTcom)
+- 
